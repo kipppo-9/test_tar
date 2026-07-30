@@ -19,6 +19,7 @@
 
    Written by John Gilmore, on 1985-08-25.  */
 
+//add test
 #include <system.h>
 
 #include <areadlink.h>
