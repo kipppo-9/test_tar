@@ -20,6 +20,8 @@
 #include <system.h>
 #include "common.h"
 
+
+
 void (*fatal_exit_hook) (void);
 
 void
