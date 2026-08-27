@@ -20,7 +20,7 @@
 #include <system.h>
 #include "common.h"
 
-
+//test 26.8.27
 
 void (*fatal_exit_hook) (void);
 
