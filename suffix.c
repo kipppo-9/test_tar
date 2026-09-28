@@ -18,6 +18,7 @@
 
 #include <system.h>
 #include "common.h"
+//test
 
 struct compression_suffix
 {
